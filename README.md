@@ -5,7 +5,7 @@ This MERN (MongoDB, Express, React, Node.js) based todo application provides a r
 
 You can watch a video presentation of this project by clicking the link below:
 
-- [Video explaining the project.](https://drive.google.com/file/d/1MbuMaAVcqD4_smeIavwB6aKU2jw7Jhbe/view?usp=sharing)
+- [Video explaining the project and how you can run it on your system.](https://drive.google.com/file/d/1LmjvflQD0BXkZzOYKLIX2_MkQGClja8Z/view?usp=sharing)
 
 In addition to the basic functionality, the application offers the following key features:
 
