@@ -1,6 +1,13 @@
 # MERN Todo Application
 
-This MERN (MongoDB, Express, React, Node.js) based todo application provides a range of advanced features to enhance task management. In addition to the basic functionality, the application offers the following key features:
+This MERN (MongoDB, Express, React, Node.js) based todo application provides a range of advanced features to enhance task management.
+## Video Presentation
+
+You can watch a video presentation of this project by clicking the link below:
+
+- [Placeholder for Video Presentation](https://drive.google.com/file/d/1MbuMaAVcqD4_smeIavwB6aKU2jw7Jhbe/view?usp=sharing)
+
+In addition to the basic functionality, the application offers the following key features:
 
 ## Additional Features
 - **Task Filters**: Filter tasks based on their priority.
