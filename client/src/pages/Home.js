@@ -52,7 +52,7 @@ const Home = () => {
       <Container>
         <Box display="flex" justifyContent="space-between" mt="2rem">
           <FormControl style={{ minWidth: 150 }}>
-            <InputLabel>Select Type</InputLabel>
+            <InputLabel>Select Priority Type</InputLabel>
             <Select value={typeFilter} onChange={handleTypeChange}>
               {types.map((type, idx) => (
                 <MenuItem key={`${idx}-${type}`} value={type}>
